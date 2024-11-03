@@ -3,10 +3,10 @@
 Welcome to **Pig Game**, a fun and interactive dice game built using HTML, CSS, and JavaScript! The game involves two players 🎮🎮 who compete to reach 100 points first by rolling dice 🎲 and accumulating scores. 
 
 ## 📜 Table of Contents
-- [📏 Game Rules](#game-rules)
-- [🎮 How to Play](#how-to-play)
-- [✨ Features](#features)
-- [🛠 Technologies Used](#technologies-used)
+- 📏 Game Rules
+- 🎮 How to Play
+- ✨ Features
+- 🛠 Technologies Used
 
 ## 📏 Game Rules
 
